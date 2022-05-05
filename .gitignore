@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
-
+mpd/
+mappings/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
